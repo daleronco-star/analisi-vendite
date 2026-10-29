@@ -38,7 +38,7 @@ Questo progetto analizza un dataset simulato di vendite utilizzando Python e Pow
 
 \- Visualizzare i risultati con grafici e KPI.
 
-\- Realizzare una dashboard interattiva in Power BI.
+\- Realizzare una dashboard in Power BI.
 
 
 
@@ -62,13 +62,13 @@ Questo progetto analizza un dataset simulato di vendite utilizzando Python e Pow
 
 
 
-\- `data/`: contiene il dataset delle vendite.
+\- `data/`: dataset delle vendite.
 
-\- `images/`: contiene le immagini dei grafici e della dashboard.
+\- `images/`: immagini dei grafici e della dashboard.
 
-\- `notebooks/`: contiene il notebook Python.
+\- `notebooks/`: notebook Python.
 
-\- `dashboard\_vendite.pbix`: report realizzato con Power BI.
+\- `dashboard\_vendite.pbix`: report Power BI.
 
 
 
@@ -105,6 +105,4 @@ Il progetto rappresenta un esercizio pratico di analisi dati e visualizzazione, 
 
 
 Il dataset è simulato e utilizzato esclusivamente a scopo didattico.
-
-
 
