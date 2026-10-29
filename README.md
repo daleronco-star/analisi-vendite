@@ -1,108 +1,48 @@
-\# Analisi vendite — Python e Power BI
+# Analisi vendite — Python e Power BI
 
+## Descrizione
 
+Progetto di analisi di un dataset simulato di vendite con Python e Power BI.
 
-\## Descrizione
+## Strumenti utilizzati
 
+- Python
+- Pandas
+- Matplotlib
+- Power BI
+- Git e GitHub
 
+## Obiettivi
 
-Questo progetto analizza un dataset simulato di vendite utilizzando Python e Power BI. L'obiettivo è calcolare i ricavi, confrontare le prestazioni dei prodotti e presentare i risultati attraverso grafici e una dashboard.
+- Calcolare i ricavi delle vendite.
+- Analizzare i ricavi per prodotto.
+- Confrontare le quantità vendute.
+- Presentare i risultati con grafici e una dashboard.
 
+## Risultati principali
 
+- Ricavi totali: 3.525 €
+- Laptop: 2.400 € di ricavi
+- Monitor: 540 € di ricavi
+- Mouse: 360 € di ricavi
+- Tastiera: 225 € di ricavi
+- Prodotto più venduto: Mouse, 18 unità
 
-\## Strumenti utilizzati
+## Grafico Python
 
+![Grafico dei ricavi per prodotto](images/grafico_ricavi.png)
 
+## Dashboard Power BI
 
-\- Python
+![Dashboard vendite](images/dashboard_vendite.png)
 
-\- Pandas
+## Struttura del progetto
 
-\- Matplotlib
+- `data/`: dataset CSV
+- `images/`: immagini dei grafici e della dashboard
+- `notebooks/`: notebook Python
+- `dashboard_vendite.pbix`: report Power BI
 
-\- Power BI
+## Dataset
 
-\- Git e GitHub
-
-
-
-\## Obiettivi del progetto
-
-
-
-\- Calcolare i ricavi di ogni vendita.
-
-\- Analizzare i ricavi per prodotto.
-
-\- Confrontare le quantità vendute.
-
-\- Visualizzare i risultati con grafici e KPI.
-
-\- Realizzare una dashboard in Power BI.
-
-
-
-\## Risultati principali
-
-
-
-\- Ricavi totali: 3.525 €
-
-\- Prodotto con maggiori ricavi: Laptop, con 2.400 €
-
-\- Prodotto con più unità vendute: Mouse, con 18 unità
-
-\- Ricavi di Monitor: 540 €
-
-\- Ricavi di Tastiera: 225 €
-
-
-
-\## Struttura del progetto
-
-
-
-\- `data/`: dataset delle vendite.
-
-\- `images/`: immagini dei grafici e della dashboard.
-
-\- `notebooks/`: notebook Python.
-
-\- `dashboard\_vendite.pbix`: report Power BI.
-
-
-
-\## Grafico dei ricavi per prodotto — Python
-
-
-
-!\[Grafico dei ricavi per prodotto](images/grafico\_ricavi.png)
-
-
-
-\## Dashboard — Power BI
-
-
-
-!\[Dashboard di analisi vendite realizzata con Power BI](images/dashboard\_vendite.png)
-
-
-
-\## Conclusioni
-
-
-
-L'analisi mostra che i Laptop generano i ricavi maggiori, mentre i Mouse sono il prodotto più venduto in termini di quantità.
-
-
-
-Il progetto rappresenta un esercizio pratico di analisi dati e visualizzazione, dalle elaborazioni con Python alla creazione di un report in Power BI.
-
-
-
-\## Dataset
-
-
-
-Il dataset è simulato e utilizzato esclusivamente a scopo didattico.
-
+Dataset simulato, utilizzato a scopo didattico.
